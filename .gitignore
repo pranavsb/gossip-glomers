@@ -19,3 +19,9 @@
 
 # Go workspace file
 go.work
+
+# exclude IDE config
+.idea/*
+
+# exclude maelstrom install
+maelstrom
